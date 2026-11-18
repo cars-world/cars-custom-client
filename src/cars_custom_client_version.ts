@@ -2,4 +2,4 @@
 // Kept in sync by test/cars_custom_client_version.spec.ts.
 
 /** The version of the `@cars-world/cars-custom-client` package. */
-export const carsCustomClientVersion = '0.1.0';
+export const carsCustomClientVersion = '0.1.1';
